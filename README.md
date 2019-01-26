@@ -3,7 +3,7 @@
 
 ### Nomor 6
 ##### Tabel product_categories<br>
-![alt text](https://imgur.com/v8G4sQD)<br>
+![alt text](https://i.imgur.com/v8G4sQD.png)<br>
 ##### Tabel products<br>
 ![alt text](https://i.imgur.com/o0xpjjf.png)<br>
 
@@ -22,3 +22,4 @@ group by
 order by 
   product_categories.id;
 ```
+![alt text](https://i.imgur.com/aY8kjhT.png)
