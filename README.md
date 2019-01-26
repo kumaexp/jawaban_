@@ -1,7 +1,7 @@
 # Jawaban Tes Rekrutment Arkademy
 
 
-### Nomor 6
+## Nomor 6
 ##### Tabel product_categories<br>
 ![alt text](https://i.imgur.com/v8G4sQD.png)<br>
 ##### Tabel products<br>
@@ -24,7 +24,7 @@ order by
 ```
 ![alt text](https://i.imgur.com/aY8kjhT.png)
 
-### Nomor 7
+## Nomor 7
 
 ##### Aplikasi website sederhana untuk menampilkan hasil query
 Menggunakan Bootstrap 4.2 dan PHP<br>
