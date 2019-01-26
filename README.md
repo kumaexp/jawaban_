@@ -10,6 +10,10 @@
 ##### function untuk mencetak segi tiga siku deret bilangan asli dengan parameter panjang deret, dengan panjang deret tidak boleh lebih dari 10, dan ada pesan error jika lebih dari 10
 ![alt text](https://i.imgur.com/m9YSXkr.png)<br>
 
+## Nomor 4
+##### function untuk menghitung jumlah jabat tangan yang terjadi dalam pertemuan yang dihadiri oleh beberapa orang, jika setiap orang berjabat tangan dengan semua yang hadir dan hanya sekali berjabat tangan tangan dengan orang yang sama
+![alt text](https://i.imgur.com/FckKCgo.png)<br>
+
 ## Nomor 6
 ##### Tabel product_categories<br>
 ![alt text](https://i.imgur.com/v8G4sQD.png)<br>
