@@ -23,3 +23,10 @@ order by
   product_categories.id;
 ```
 ![alt text](https://i.imgur.com/aY8kjhT.png)
+
+### Nomor 7
+
+##### Aplikasi website sederhana untuk menampilkan hasil query
+Menggunakan Bootstrap 4.2 dan PHP<br>
+
+![alt text](https://i.imgur.com/1pNID1j.png)
