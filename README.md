@@ -1,5 +1,10 @@
 # Jawaban Tes Rekrutment Arkademy
 
+## Nomor 2
+##### function untuk memverifikasi field username dengan requirements lima karakter pertama huruf kecil dilanjutkan underscore atau titik dan dilanjutkan dua huruf besar<br>
+```html
+<input type="text" pattern="[a-z]{5}[_.]?[A-Z]{2}">
+```
 
 ## Nomor 6
 ##### Tabel product_categories<br>
