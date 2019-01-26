@@ -6,6 +6,10 @@
 <input type="text" pattern="[a-z]{5}[_.]?[A-Z]{2}">
 ```
 
+## Nomor 3
+##### function untuk mencetak segi tiga siku deret bilangan asli dengan parameter panjang deret, dengan panjang deret tidak boleh lebih dari 10, dan ada pesan error jika lebih dari 10
+![alt text](https://i.imgur.com/m9YSXkr.png)<br>
+
 ## Nomor 6
 ##### Tabel product_categories<br>
 ![alt text](https://i.imgur.com/v8G4sQD.png)<br>
