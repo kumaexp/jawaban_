@@ -1,0 +1,10 @@
+{
+  "itemId" : "12341822",
+  "itemName" : "basic t-shirt",
+  "price" : 70000,
+  "availableColorAndSize" : [ 
+  	"color = red, sizes = S,M,L", 
+  	"color = solid black, sizes = M,L" 
+  ],
+  "freeShipping" : false 
+}
