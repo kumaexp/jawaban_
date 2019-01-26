@@ -5,7 +5,7 @@
 </head>
 <body>
 	<form name="form" action="#" method="get">
-	 	<input type="number" name="subject" id="subject" name="quantity" min="1" max="10">
+	 	<input type="number" name="subject" min="1" max="10">
 	 	<input type="submit" name="submit">
 	</form>
 	<?php  
