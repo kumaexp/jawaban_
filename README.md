@@ -1,8 +1,8 @@
 # Jawaban Tes Rekrutment Arkademy
 
 
-##### Nomor 6
-Tabel product_categories
+### Nomor 6
+##### Tabel product_categories<br>
 ![alt text](https://i.imgur.com/o0xpjjf.png)
 
 Membuat record seperti yang ada di soal
