@@ -14,6 +14,13 @@
 ##### function untuk menghitung jumlah jabat tangan yang terjadi dalam pertemuan yang dihadiri oleh beberapa orang, jika setiap orang berjabat tangan dengan semua yang hadir dan hanya sekali berjabat tangan tangan dengan orang yang sama
 ![alt text](https://i.imgur.com/FckKCgo.png)<br>
 
+## Nomor 5
+##### function versi sendiri yang memiliki kegunaan sama dengan function substr_count() atau string.count()
+Input<br>
+![alt text](https://i.imgur.com/jYaS01o.png)<br>
+Output<br>
+![alt text](https://i.imgur.com/58Uug0R.png)<br>
+
 ## Nomor 6
 ##### Tabel product_categories<br>
 ![alt text](https://i.imgur.com/v8G4sQD.png)<br>
